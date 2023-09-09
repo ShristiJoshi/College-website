@@ -1,0 +1,13 @@
+1. Download local server either xampp (https://www.apachefriends.org/index.html)
+ or wamp server (https://www.wampserver.com/en/)
+2. Run xampp or wamp server (Make sure php is installed properly)
+3. Copy folder (soe.pu.edu.np) to C:\xampp\htdocs
+4. Open browser
+5. Type "http://localhost/soe.pu.edu.np" on browser
+Enjoy surfing website
+
+Regards
+Binita Shrestha
+Pooja Yadav
+Sanjay Poudel
+Shristi Joshi
