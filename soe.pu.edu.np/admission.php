@@ -1,4 +1,4 @@
-<!-- <?php include("header.php");?>
+<?php include("header.php");?>
 
 <body class="has-fixed-footer">
 
@@ -260,4 +260,4 @@
 
 
 <?php include("footer.php"); ?>    
-</body> -->
+</body>
