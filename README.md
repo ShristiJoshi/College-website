@@ -1,4 +1,4 @@
-# college-website
+# College-website
 Minor group Project. A Web Application that facilitates SOE College website Pokhara University.
 
 ## Team Members
